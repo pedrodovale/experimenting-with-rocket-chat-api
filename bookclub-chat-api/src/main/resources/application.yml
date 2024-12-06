@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: bookclub-chat
+
+
+bookclub-chat:
+  personal-access-token: T3jWBsaT8lNFP63zexaHp3Jdnc-lab-bV0PEjTMHxRi
+  user-id: tmpXHiGw99JWGRYkM
+
+
